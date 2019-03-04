@@ -3,3 +3,8 @@ Portrait simple is an online based e-commerce shop which is going to sell differ
 
 
 Furthermore, our customer service team endeavours to give you peace of mind along your online purchase journey by handling all enquiries of yours promtly and efficiently. With E-infinity, you can rest assured that you are getting the best value from our amazing deals Mostly 18-30 year young people like photography, also few other people for different kind of programs or events. Our main target to these young people who love photography and we want to encourage them by our attractive offer to buy our cameras. Our products is genuine and with warranty. We will provide online support system for the user who need to operate their cameras. 
+
+
+Stack USED : Laragon
+Language : HTML , CSS , PHP , JAVASCRIPT , mysql
+Website content : Dynamic 
